@@ -1,0 +1,21 @@
+{
+  "namespace": "mycomponent",
+  "fsNamespace": "mycomponent",
+  "loader": "../mycomponent.js",
+  "core": "mycomponent.qhdj2t4e.js",
+  "corePolyfilled": "mycomponent.ea7akfbr.js",
+  "components": {
+    "my-color-picker": {
+      "bundleIds": {
+        "$": "nbezv56f"
+      },
+      "encapsulation": "shadow"
+    },
+    "my-component": {
+      "bundleIds": {
+        "$": "faef9h6t"
+      },
+      "encapsulation": "shadow"
+    }
+  }
+}
